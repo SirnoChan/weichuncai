@@ -1,57 +1,48 @@
-﻿=== Plugin Name ===
-Contributors: lmyoaoa
-Requires at least: 3.1.1
-Tags: Ukagaka, 伪春菜, weichuncai
-Tested up to: 1.5
-Stable tag: 1.4
+﻿# Plugin Name
+Contributors: lmyoaoa<br/>
+Requires at least: 3.1.1<br/>
+Tags: Ukagaka, 伪春菜, weichuncai<br/>
+Tested up to: 1.5<br/>
+Stable tag: 1.4<br/>
 
-为了WP的萌化，特制伪春菜插件一枚
-a plugin for who love comic and game, named Ukagaka in Windows.
+为了WP的萌化，特制伪春菜插件一枚<br/>
+a plugin for who love comic and game, named Ukagaka in Windows.<br/>
 it looks like fairy~
 
-== Installation ==
+# Installation
 
-1. 首先当然是下载伪春菜插件啦,博客发布页: http://www.lmyoaoa.com/inn/?p=3134
-
-2. 伪春菜相关的文章及萌图列表：http://www.lmyoaoa.com/inn/archives/category/wp-weichuncai/
-
-3. 上传插件到WP的插件目录，在WP后台启用
-
+1. 首先当然是下载伪春菜插件啦,博客发布页: http://www.lmyoaoa.com/inn/?p=3134 <br/>
+2. 伪春菜相关的文章及萌图列表：http://www.lmyoaoa.com/inn/archives/category/wp-weichuncai/ <br/>
+3. 上传插件到WP的插件目录，在WP后台启用<br/>
 4. 完毕～
 
-== Description ==
+# Description
 
 ++++WP伪春菜插件的主要功能++++
 
-1. 可以在浏览器中随意拖动人格，并且会记住当前位置
-
-2. 实现了伪春菜个人最喜欢的功能，自言自语，春菜们会不间断的自己胡乱说一些话
-
-3. 可以给春菜喂食，没有撑死的设定=_,=|||
-
-4. 可以跟春菜聊天，譬如你输入“早上好”，她会回答你相应的问候词，这些设置可以在后台自己设置
-
-5. 查看春菜生存时间
-
-6. 觉得春菜挡住视线可以隐藏她，她就藏起来了，隐藏起来时右下角会多出个召唤按钮  :dao
-
-7. 你们可以自己DIY皮肤，自制皮肤的方法很简单，建个文件夹放图然后上传，并在后台添加春菜名字就OK了
+1. 可以在浏览器中随意拖动人格，并且会记住当前位置<br/>
+2. 实现了伪春菜个人最喜欢的功能，自言自语，春菜们会不间断的自己胡乱说一些话<br/>
+3. 可以给春菜喂食，没有撑死的设定=_,=|||<br/>
+4. 可以跟春菜聊天，譬如你输入“早上好”，她会回答你相应的问候词，这些设置可以在后台自己设置<br/>
+5. 查看春菜生存时间<br/>
+6. 觉得春菜挡住视线可以隐藏她，她就藏起来了，隐藏起来时右下角会多出个召唤按钮  :dao<br/>
+7. 你们可以自己DIY皮肤，自制皮肤的方法很简单，建个文件夹放图然后上传，并在后台添加春菜名字就OK了<br/>
 
 
 +++++++下面是个把月前写的一点点更新日志++++++
 
-06.09差不多完成了基本的功能函数
-06.10组装起来
-06.10想出春菜肚子饿的设定,想想估计会有趣蛮多
-06.24完成自言自语功能
-06.25进一步修正改进自言自语功能呢
-06.26开始做前端，并且修正只有1-2个表情时忘记处理的bug，真麻烦，又重新改进了不少代码。
+06.09差不多完成了基本的功能函数<br/>
+06.10组装起来<br/>
+06.10想出春菜肚子饿的设定,想想估计会有趣蛮多<br/>
+06.24完成自言自语功能<br/>
+06.25进一步修正改进自言自语功能呢<br/>
+06.26开始做前端，并且修正只有1-2个表情时忘记处理的bug，真麻烦，又重新改进了不少代码。<br/>
 
-== Upgrade Notice ==
+# Upgrade Notice
 
 直接上传覆盖即可
 
-== Changelog ==
+# hangelog
 - Version 1.5(2013-05-21):
 	+ 重写js代码
     + 增加问答功能选项可增加至100个
@@ -92,11 +83,11 @@ it looks like fairy~
 	+ 更改默认中华娘的春菜名为英文（使用skin使用中文文件夹会出现某些服务器不能正常读取的情况）
 	+ 零食后台已经写完了，现在大家可以自由更新零食给你们萌萌的春菜们吃了
 
-== Screenshots ==
+# Screenshots
 
-1. weichuncai001.jpg
-2. weichuncai002.jpg
+1. <img width="400" height="760" alt="weichuncai001.jpg" src="weichuncai001.jpg" />
+2. <img width="400" height="760" alt="weichuncai002.jpg" src="weichuncai002.jpg" />
 
-== Frequently Asked Questions ==
+# Frequently Asked Questions
 
 还有什么疑问可以到我博客留言，或者给我发邮件lmyoaoa@gmail.com
