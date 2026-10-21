@@ -42,7 +42,7 @@ it looks like fairy~
 
 直接上传覆盖即可
 
-# hangelog
+# Changelog
 - Version 1.5(2013-05-21):
 	+ 重写js代码
     + 增加问答功能选项可增加至100个
